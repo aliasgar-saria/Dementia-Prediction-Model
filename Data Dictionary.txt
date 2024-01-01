@@ -1,0 +1,17 @@
+he dementia prediction dataset contains the following features:
+
+Subject ID: A unique identifier for each subject in the study.
+MRI ID: A unique identifier for each MRI scan session.
+Group: Categorization of the subject's condition - "Nondemented", "Demented", or other specific classifications.
+Visit: Indicates the number of the visit when the scan was taken. Each subject had multiple visits.
+MR Delay: The time delay between the first visit and the subsequent visit(s) in days.
+M/F: Gender of the subject, denoted as 'M' for male and 'F' for female.
+Hand: The dominant hand of the subject, which is 'R' for all subjects in this dataset, indicating right-handed.
+Age: The age of the subject at the time of the MRI scan.
+EDUC: Years of education of the subject.
+SES: Socioeconomic status, represented as a numerical value. Lower values typically indicate higher status.
+MMSE: Mini-Mental State Examination score, a measure of cognitive function. The range is from 0 to 30, with higher scores indicating better cognitive function.
+CDR: Clinical Dementia Rating, which ranges from 0 (no dementia) to 3 (severe dementia).
+eTIV: Estimated Total Intracranial Volume, measured in cubic millimeters.
+nWBV: Normalized Whole Brain Volume, a measure of brain size adjusted for head size.
+ASF: Atlas Scaling Factor, used in brain image analysis.
