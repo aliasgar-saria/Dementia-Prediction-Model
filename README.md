@@ -1,4 +1,4 @@
-![image](https://github.com/aliasgar-saria/Dementia-Prediction-Model/assets/54890369/259521a6-4b64-41a8-8db3-c4688a4caf42)# Dementia-Prediction-Model
+# Dementia-Prediction-Model
 
 Developed a dementia prediction model with machine learning and deep learning techniques, 
 achieving 89% accuracy with Random Forest, 88% with Logistic Regression, and 88% accuracy 
